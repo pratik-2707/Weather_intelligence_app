@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "Smart weather intelligence app with Open-Meteo forecasts, hourly charts, 7-day outlooks, and AI planning recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
